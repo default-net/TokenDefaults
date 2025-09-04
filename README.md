@@ -1,6 +1,7 @@
+#TokenDefaults
 Crypto without volatility
 
-Stablecoins are currencies that maintain stable value. Their price matches the U.S. dollar or other steady assets.
+Stable currency that maintain stable value. Their price matches the U.S. dollar or other steady assets.
 
 ## defaults  is cryptocurrency on the polygon mainnet where gas fees are way less
 
